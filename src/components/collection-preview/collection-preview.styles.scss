@@ -1,0 +1,24 @@
+.collection-preview {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+
+  .title {
+    padding-left: 1.5%;
+    font-size: 28px;
+    margin-bottom: 25px;
+    background-image: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+    background-repeat: no-repeat;
+    background-size: 100% 0.2em;
+    background-position: 0 88%;
+    transition: background-size 0.25s ease-in;
+    &:hover {
+      background-size: 100% 88%;
+    }
+  }
+
+  .preview {
+    display: flex;
+    justify-content: space-between;
+  }
+}

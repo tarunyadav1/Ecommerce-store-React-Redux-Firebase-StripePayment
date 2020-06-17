@@ -1,0 +1,17 @@
+.sign-up {
+  display: flex;
+  flex-direction: column;
+  width: 380px;
+
+  .title {
+    margin: 10px 0;
+  }
+}
+.dontmatch {
+  color: rgb(209, 81, 81);
+  font-size: 1.5em;
+  margin-top: 1em;
+  padding-left: 25%;
+  border: 1px solid #f7bd02;
+  //   background-color: #f7bd02;
+}
