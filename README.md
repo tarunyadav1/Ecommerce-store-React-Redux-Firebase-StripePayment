@@ -2,7 +2,7 @@
 
 ## [Check it live here](https://doistnow.netlify.app/)
 
-<a href="https://ibb.co/8Pvx7qQ"><img src="https://i.ibb.co/xGMnHwh/Screenshot-2020-06-17-Mesh-Online-Clothing-Store.jpg" alt="smartmockups-kawbi5mr" border="0" /></a>
+<a href="https://github.com/tarunyadav1/Clothing-store-ecommerce#available-scripts"><img src="https://i.ibb.co/xGMnHwh/Screenshot-2020-06-17-Mesh-Online-Clothing-Store.jpg" alt="smartmockups-kawbi5mr" border="0" /></a>
 
 Ecommerce website build using React and Firebase.
 
@@ -14,7 +14,6 @@ Ecommerce website build using React and Firebase.
 - React Router for Routing
 - Node-SaSS for styling
 - Stripe as payment Gateway
--
 
 ## Getting Started
 
