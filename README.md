@@ -6,7 +6,7 @@
 
 Ecommerce website build using React and Firebase.
 
-## Tech Info of Apps
+## Tech Info of App
 
 - React for UI
 - Firebase as serverless
