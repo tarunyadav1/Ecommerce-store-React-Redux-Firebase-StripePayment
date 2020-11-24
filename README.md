@@ -2,7 +2,7 @@
 
 ## [Check it live here](https://meshstore.netlify.app/)
 
-<a href=""><img src="https://i.ibb.co/xGMnHwh/Screenshot-2020-06-17-Mesh-Online-Clothing-Store.jpg" alt="smartmockups-kawbi5mr" border="0" /></a>
+<img src="https://i.ibb.co/C0BjKSK/smartmockups-kbyey1qx.jpg" alt="smartmockups-kbyey1qx" border="0">
 
 Ecommerce website build using React and Firebase.
 
